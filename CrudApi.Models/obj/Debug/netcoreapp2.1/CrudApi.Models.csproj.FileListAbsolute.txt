@@ -1,0 +1,8 @@
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\bin\Debug\netcoreapp2.1\CrudApi.Models.deps.json
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\bin\Debug\netcoreapp2.1\CrudApi.Models.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\bin\Debug\netcoreapp2.1\CrudApi.Models.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.1\CrudApi.Models.AssemblyInfoInputs.cache
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.1\CrudApi.Models.AssemblyInfo.cs
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.1\CrudApi.Models.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.1\CrudApi.Models.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.1\CrudApi.Models.csprojAssemblyReference.cache

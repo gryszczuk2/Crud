@@ -1,0 +1,11 @@
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\bin\Debug\netcoreapp2.1\CrudApi.Logics.deps.json
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\bin\Debug\netcoreapp2.1\CrudApi.Logics.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\bin\Debug\netcoreapp2.1\CrudApi.Logics.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\bin\Debug\netcoreapp2.1\CrudApi.Models.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\bin\Debug\netcoreapp2.1\CrudApi.Models.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\obj\Debug\netcoreapp2.1\CrudApi.Logics.csprojAssemblyReference.cache
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\obj\Debug\netcoreapp2.1\CrudApi.Logics.AssemblyInfoInputs.cache
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\obj\Debug\netcoreapp2.1\CrudApi.Logics.AssemblyInfo.cs
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\obj\Debug\netcoreapp2.1\CrudApi.Logics.csproj.CopyComplete
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\obj\Debug\netcoreapp2.1\CrudApi.Logics.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Logics\obj\Debug\netcoreapp2.1\CrudApi.Logics.pdb

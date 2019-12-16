@@ -1,0 +1,16 @@
+C:\Users\Szymon_2\Desktop\CrudApi\CrudApi.Models\bin\Debug\netcoreapp2.2\CrudApi.Models.deps.json
+C:\Users\Szymon_2\Desktop\CrudApi\CrudApi.Models\bin\Debug\netcoreapp2.2\CrudApi.Models.dll
+C:\Users\Szymon_2\Desktop\CrudApi\CrudApi.Models\bin\Debug\netcoreapp2.2\CrudApi.Models.pdb
+C:\Users\Szymon_2\Desktop\CrudApi\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.csprojAssemblyReference.cache
+C:\Users\Szymon_2\Desktop\CrudApi\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.AssemblyInfoInputs.cache
+C:\Users\Szymon_2\Desktop\CrudApi\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.AssemblyInfo.cs
+C:\Users\Szymon_2\Desktop\CrudApi\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.dll
+C:\Users\Szymon_2\Desktop\CrudApi\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\bin\Debug\netcoreapp2.2\CrudApi.Models.deps.json
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\bin\Debug\netcoreapp2.2\CrudApi.Models.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\bin\Debug\netcoreapp2.2\CrudApi.Models.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.csprojAssemblyReference.cache
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.AssemblyInfoInputs.cache
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.AssemblyInfo.cs
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.Models\obj\Debug\netcoreapp2.2\CrudApi.Models.pdb

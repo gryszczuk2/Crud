@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi.Web", "CrudApi.Web\CrudApi.Web.csproj", "{0A90D026-EDB7-43BB-8BBC-DE293AECC70C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi.Models", "CrudApi.Models\CrudApi.Models.csproj", "{BB614CE5-1114-40D9-9264-C7906C453794}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi.DataAccess", "CrudApi.DataAccess\CrudApi.DataAccess.csproj", "{C404AD75-DD32-441D-9BC2-4E6471569823}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi.Logics", "CrudApi.Logics\CrudApi.Logics.csproj", "{EBCC71EF-7230-41B8-8FD7-536C0B601B1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A2C87106-8F98-4F8B-A7A2-97DA1B760541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApi.Logic.Tests", "CrudApi.Logic.Tests\CrudApi.Logic.Tests.csproj", "{BD66FB34-9F61-4E3F-A4B3-AB5EF0375795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A90D026-EDB7-43BB-8BBC-DE293AECC70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A90D026-EDB7-43BB-8BBC-DE293AECC70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A90D026-EDB7-43BB-8BBC-DE293AECC70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A90D026-EDB7-43BB-8BBC-DE293AECC70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB614CE5-1114-40D9-9264-C7906C453794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB614CE5-1114-40D9-9264-C7906C453794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB614CE5-1114-40D9-9264-C7906C453794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB614CE5-1114-40D9-9264-C7906C453794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C404AD75-DD32-441D-9BC2-4E6471569823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C404AD75-DD32-441D-9BC2-4E6471569823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C404AD75-DD32-441D-9BC2-4E6471569823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C404AD75-DD32-441D-9BC2-4E6471569823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCC71EF-7230-41B8-8FD7-536C0B601B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCC71EF-7230-41B8-8FD7-536C0B601B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCC71EF-7230-41B8-8FD7-536C0B601B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCC71EF-7230-41B8-8FD7-536C0B601B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD66FB34-9F61-4E3F-A4B3-AB5EF0375795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD66FB34-9F61-4E3F-A4B3-AB5EF0375795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD66FB34-9F61-4E3F-A4B3-AB5EF0375795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD66FB34-9F61-4E3F-A4B3-AB5EF0375795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD66FB34-9F61-4E3F-A4B3-AB5EF0375795} = {A2C87106-8F98-4F8B-A7A2-97DA1B760541}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48E30BE4-7BBE-4221-89D8-B5357FB12D06}
+	EndGlobalSection
+EndGlobal

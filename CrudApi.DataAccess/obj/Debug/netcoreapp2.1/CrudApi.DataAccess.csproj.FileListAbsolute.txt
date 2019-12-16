@@ -1,0 +1,15 @@
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.Logics.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.Models.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\obj\Debug\netcoreapp2.1\CrudApi.DataAccess.csprojAssemblyReference.cache
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\obj\Debug\netcoreapp2.1\CrudApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\obj\Debug\netcoreapp2.1\CrudApi.DataAccess.AssemblyInfo.cs
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.DataAccess.deps.json
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.DataAccess.runtimeconfig.json
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.DataAccess.runtimeconfig.dev.json
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.DataAccess.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.DataAccess.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.Logics.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\bin\Debug\netcoreapp2.1\CrudApi.Models.pdb
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\obj\Debug\netcoreapp2.1\CrudApi.DataAccess.csproj.CopyComplete
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\obj\Debug\netcoreapp2.1\CrudApi.DataAccess.dll
+C:\Users\grysz\Desktop\CrudApiNewest\CrudApi.DataAccess\obj\Debug\netcoreapp2.1\CrudApi.DataAccess.pdb
